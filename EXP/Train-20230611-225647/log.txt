@@ -1,0 +1,2 @@
+2023-06-11 22:56:47,476 train file name = ('e:\\python\\SCI', 'train.py')
+2023-06-11 22:56:47,477 no gpu device available
